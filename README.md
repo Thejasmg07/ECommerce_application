@@ -1,7 +1,7 @@
 E-Commerce
 -----------------------------------------------------------------------------------------------------------------------
 
-git clone https://github.com/Likhi2005/E-commerce-.git
+git clone https://github.com/Thejasmg07/ECommerce_application.git
 
 cd E-commerce-/Frontend
 
